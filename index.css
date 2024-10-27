@@ -1,5 +1,5 @@
 body {
-    background-color: #424949  ;
+    background-color:#f0f3f4  ;
     background-size: cover;
     font-weight: bold;
     text-align: center;
@@ -28,10 +28,10 @@ button {
 }
 
 #increment-btn {
-    background: #873600 ;
+    background: #0b5345 ;
 }
 
 #save-btn {
-    background: #145a32;
+    background: #6e2c00;
 }
 
